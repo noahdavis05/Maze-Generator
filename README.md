@@ -21,7 +21,10 @@ Then to run the code use the command
 to make a maze of a certain width and height and to save it to a certain file.
 
 ## Examples
-From the command './mazeGenerator file.txt 30 30'
+From the command 
+```
+./mazeGenerator file.txt 30 30
+```
 ```
                                   #       #           # E # 
   # # # # # # # # # # # # # # #   #   #   #   #   #   #   # 
@@ -54,7 +57,10 @@ From the command './mazeGenerator file.txt 30 30'
           #           #       #                           # 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 ```
-From the command './mazeGenerator file.txt 10 20'
+From the command 
+```
+./mazeGenerator file.txt 10 20
+```
 ```
 # E                 
 #   #   # # # # # # 
